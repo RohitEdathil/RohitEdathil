@@ -22,7 +22,7 @@ Skills: FLUTTER / PYTHON / ELECTRON / DATA ANALYTICS / DJANGO / JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RohitEdathil)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RohitEdathil&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RohitEdathil&show_icons=true&count_private=true&theme=dark)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RohitEdathil)  
 
