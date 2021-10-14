@@ -7,8 +7,8 @@ Skills: FLUTTER / PYTHON / ELECTRON / DATA ANALYTICS / DJANGO / JS / HTML / CSS
 - 🔭 I’m currently working on WebMaster CMS 
 - 🌱 I’m currently learning Flutter 
 - 👯 I’m looking to collaborate on cool stuff that interests me 
-- 🤔 I’m looking for help with Stuff I am good at 
-- 💬 Ask me about Anything 
+- 🤔 I’m looking for help with Stuff I am not good at 
+- 💬 Ask me about Anything I know
 - 📫 How to reach me: Linkedin, Email 
 
 ![Profile views](https://gpvc.arturio.dev/RohitEdathil)  
