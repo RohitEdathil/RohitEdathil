@@ -4,6 +4,8 @@ I really like to make cool stuff with code. Making things a lot of people can us
 
 Skills: FLUTTER / PYTHON / ELECTRON / DATA ANALYTICS / DJANGO / JS / HTML / CSS
 
+![Followers](https://img.shields.io/github/followers/RohitEdathil?style=social)
+![Stars](https://img.shields.io/github/stars/RohitEdathil?style=social)
 - 🔭 I’m currently working on WebMaster CMS 
 - 🌱 I’m currently learning Flutter 
 - 👯 I’m looking to collaborate on cool stuff that interests me 
@@ -15,8 +17,6 @@ Skills: FLUTTER / PYTHON / ELECTRON / DATA ANALYTICS / DJANGO / JS / HTML / CSS
 [![trophy](https://github-profile-trophy.vercel.app/?username=RohitEdathil)](https://github.com/ryo-ma/github-profile-trophy)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RohitEdathil)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rohit-vinod-/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rohit.vinod.52056)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/l__rtv__l/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mailto:rohitedathil@gmail.com)  
-
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
 
 
