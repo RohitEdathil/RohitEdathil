@@ -29,3 +29,9 @@ Skills: FLUTTER / PYTHON / ELECTRON / DATA ANALYTICS / DJANGO / JS / HTML / CSS
 ![GitHub metrics](https://metrics.lecoq.io/RohitEdathil)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=RohitEdathil)  
+
+# Projects
+
+[![Project Card](https://project-card-app.herokuapp.com/project_card/RohitEdathil/project_card)](https://github.com/RohitEdathil/project_card)
+[![Project Card](https://project-card-app.herokuapp.com/project_card/RohitEdathil/ConsoleBars)](https://github.com/RohitEdathil/ConsoleBars)
+[![Project Card](https://project-card-app.herokuapp.com/project_card/RohitEdathil/SentenceGenerator)](https://github.com/RohitEdathil/SentenceGenerator)
