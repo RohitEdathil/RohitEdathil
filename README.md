@@ -73,9 +73,9 @@ I really like to make cool stuff with code. Making things a lot of people can us
 
 # Projects
 
-[![Project Card](https://project-card-app.herokuapp.com/project_card/RohitEdathil/project_card)](https://github.com/RohitEdathil/project_card)
-[![Project Card](https://project-card-app.herokuapp.com/project_card/RohitEdathil/ConsoleBars)](https://github.com/RohitEdathil/ConsoleBars)
+[![Project Card](https://project-card-app.herokuapp.com/project_card/RohitEdathil/project_card?theme=violet)](https://github.com/RohitEdathil/project_card)
+[![Project Card](https://project-card-app.herokuapp.com/project_card/RohitEdathil/ConsoleBars?theme=violet)](https://github.com/RohitEdathil/ConsoleBars)
 [![Project Card](https://project-card-app.herokuapp.com/project_card/RohitEdathil/SentenceGenerator)](https://github.com/RohitEdathil/SentenceGenerator)
 [![Project Card](https://project-card-app.herokuapp.com/project_card/RohitEdathil/AnertPortal)](https://github.com/RohitEdathil/AnertPortal)
-[![Project Card](https://project-card-app.herokuapp.com/project_card/RohitEdathil/webmaster)](https://github.com/RohitEdathil/webmaster)
-[![Project Card](https://project-card-app.herokuapp.com/project_card/RohitEdathil/whatsapp_analytics)](https://github.com/RohitEdathil/whatsapp_analytics)
+[![Project Card](https://project-card-app.herokuapp.com/project_card/RohitEdathil/webmaster?theme=dark-green)](https://github.com/RohitEdathil/webmaster)
+[![Project Card](https://project-card-app.herokuapp.com/project_card/RohitEdathil/whatsapp_analytics?theme=dark-green)](https://github.com/RohitEdathil/whatsapp_analytics)
