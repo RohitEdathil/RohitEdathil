@@ -56,7 +56,7 @@ I really like to make cool stuff with code. Making things a lot of people can us
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=RohitEdathil)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=RohitEdathil)](https://github.com/ryo-ma/github-profile-trophy?row=2&column=3)
 
 
 
